@@ -8,6 +8,14 @@ CREDIT: Eric E Monson
 1. [Pandas built-in plotting](BasicPandasPlotting.ipynb)
 
 
+## DSC Workshops
+
+[Python for Data Science - Part 1](https://calendar.library.ucla.edu/event/9029074)
+  Introduction to basic Python syntax, data structures and data science tools. 5/6, 9-noon 
+
+[Python for Data Science - Part 2](https://calendar.library.ucla.edu/event/9029075)
+  Introduction to basic Python syntax, data structures and data science tools. 5/13
+
 ---
 
 ### Extra Resources
