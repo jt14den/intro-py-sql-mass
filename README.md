@@ -5,7 +5,7 @@ CREDIT: Eric E Monson
 
 ## Workshop modules:
 
-1. [Pandas built-in plotting](BasicPandasPlotting.ipynb)
+1. Example using Python with [Pandas built-in plotting](BasicPandasPlotting.ipynb)
 
 
 ## DSC Workshops
