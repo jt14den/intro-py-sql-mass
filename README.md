@@ -14,7 +14,7 @@ CREDIT: Eric E Monson
   Introduction to basic Python syntax, data structures and data science tools. 5/6, 9-noon 
 
 [Python for Data Science - Part 2](https://calendar.library.ucla.edu/event/9029075)
-  Introduction to basic Python syntax, data structures and data science tools. 5/13
+  Introduction to basic Python syntax, data structures and data science tools. 5/13, 9-noon
 
 ---
 
