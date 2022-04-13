@@ -6,6 +6,7 @@ CREDIT: Eric E Monson
 ## Workshop modules:
 
 1. Example using Python with [Pandas built-in plotting](BasicPandasPlotting.ipynb)
+2. [SQL for Social Scientists](https://datacarpentry.org/sql-socialsci/) - data carpentry lesson
 
 
 ## DSC Workshops
